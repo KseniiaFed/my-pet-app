@@ -14,7 +14,7 @@ const SearchButtons = () => {
           type="button"
           id="cat"
           onClick={(e) => onClick(e)}
-          className="py-2 px-4 border-2 border-opacity-50 rounded-lg bg-gray-500 font-bold text-white focus:outline-none active:bg-gray-400"
+          className="py-2 px-4 border-2 rounded-lg bg-gray-500 font-bold text-white focus:outline-none active:bg-gray-400"
         >
           Cats
         </button>
